@@ -1,4 +1,4 @@
-##NAPA-VQ: Neighborhood-Aware Prototype Augmentation with Vector Quantization for Continual Learning ##
+**NAPA-VQ: Neighborhood-Aware Prototype Augmentation with Vector Quantization for Continual Learning**
 
 #Requirements
 Python 3.7.4
