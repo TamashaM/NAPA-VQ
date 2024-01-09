@@ -1,5 +1,7 @@
 **NAPA-VQ: Neighborhood-Aware Prototype Augmentation with Vector Quantization for Continual Learning**
 
+We propose NAPA-VQ: Neighborhood Aware Prototype Augmentation with Vector Quantization, a framework that reduces catastrophic forgetting in Non Exemplar based Class Incremental Learning.
+
 #Requirements
 Python 3.7.4
 PyTorch: 1.9.0
