@@ -1,6 +1,6 @@
 **NAPA-VQ: Neighborhood-Aware Prototype Augmentation with Vector Quantization for Continual Learning**
 
-We propose NAPA-VQ: Neighborhood Aware Prototype Augmentation with Vector Quantization, a framework that reduces catastrophic forgetting in Non Exemplar based Class Incremental Learning.
+We propose NAPA-VQ: Neighborhood Aware Prototype Augmentation with Vector Quantization, a framework that reduces catastrophic forgetting in **Non-Exemplar based Class Incremental Learning.**
 
 [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Malepathirana_NAPA-VQ_Neighborhood-Aware_Prototype_Augmentation_with_Vector_Quantization_for_Continual_Learning_ICCV_2023_paper.html)
 
