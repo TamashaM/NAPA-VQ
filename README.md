@@ -2,20 +2,23 @@
 
 We propose NAPA-VQ: Neighborhood Aware Prototype Augmentation with Vector Quantization, a framework that reduces catastrophic forgetting in Non Exemplar based Class Incremental Learning.
 
-#Requirements
+[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Malepathirana_NAPA-VQ_Neighborhood-Aware_Prototype_Augmentation_with_Vector_Quantization_for_Continual_Learning_ICCV_2023_paper.html)
+
+#### Requirements
 Python 3.7.4
+
 PyTorch: 1.9.0
 
-#Datasets
+#### Datasets
 Create the "dataset" directory under NAPA-VQ and download the following datasets into the created directory.
 
-1.CIFAR-100
+    1.CIFAR-100
+    
+    2.Tiny-ImageNet
+    
+    3.ImageNet-Subset
 
-2.Tiny-ImageNet
-
-3.ImageNet-Subset
-
-#Training
+#### Training
 
 CIFAR-100
 
@@ -51,8 +54,18 @@ python main_imagenet.py --custom_name "imagenet-20" --base_model "imagenet-20" -
 
 ```
 
-#References
+### Citation
+@InProceedings{Malepathirana_2023_ICCV,
+    author    = {Malepathirana, Tamasha and Senanayake, Damith and Halgamuge, Saman},
+    title     = {NAPA-VQ: Neighborhood-Aware Prototype Augmentation with Vector Quantization for Continual Learning},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {11674-11684}
+}
 
-We thank the authors of following repositories for their excellent codebase providing reusable functions.
+#### References
+
+We thank the authors of the following repositories for their excellent codebase providing reusable functions.
 
 https://github.com/Impression2805/CVPR21_PASS
