@@ -55,14 +55,18 @@ python main_imagenet.py --custom_name "imagenet-20" --base_model "imagenet-20" -
 ```
 
 ### Citation
-@InProceedings{Malepathirana_2023_ICCV,
-    author    = {Malepathirana, Tamasha and Senanayake, Damith and Halgamuge, Saman},
-    title     = {NAPA-VQ: Neighborhood-Aware Prototype Augmentation with Vector Quantization for Continual Learning},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-    month     = {October},
-    year      = {2023},
-    pages     = {11674-11684}
-}
+<pre>
+    <code>
+    @InProceedings{Malepathirana_2023_ICCV,
+        author    = {Malepathirana, Tamasha and Senanayake, Damith and Halgamuge, Saman},
+        title     = {NAPA-VQ: Neighborhood-Aware Prototype Augmentation with Vector Quantization for Continual Learning},
+        booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+        month     = {October},
+        year      = {2023},
+        pages     = {11674-11684}
+    }
+    </code>
+</pre>
 
 #### References
 
